@@ -1,3 +1,7 @@
-remote_theme: pages-themes/tactile@v0.2.0
+title: Online Resume
+remote_theme: zerostaticthemes/jekyll-serif-theme
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+url: "https://www.jcfisher.net"
+baseurl: ""
+a
