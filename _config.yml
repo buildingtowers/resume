@@ -1,5 +1,5 @@
 title: Online Resume
-remote_theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: jglovier/resume-template
 plugins:
   - jekyll-remote-theme
 url: "https://www.jcfisher.net"
